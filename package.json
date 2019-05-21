@@ -1,0 +1,22 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "Testing Laboration 9 - Webbapplikationer",
+  "main": "src/index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Henrikolofsson/testing-with-jest.git"
+  },
+  "author": "Henrik Olofsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Henrikolofsson/testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/Henrikolofsson/testing-with-jest#readme"
+}
