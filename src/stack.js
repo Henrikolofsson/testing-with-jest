@@ -1,4 +1,5 @@
 var _ = require('underscore');
+console.log("STACK");
 
 let stack = [];
 
