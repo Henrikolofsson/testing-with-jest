@@ -1,4 +1,4 @@
-const path = require('../src/stack');
+const path = require('path');
 
 module.exports = {
   entry: './src/index.js',
